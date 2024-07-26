@@ -82,7 +82,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "TalkDrove",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "BYTE-MD",
-  ownername: process.env.OWNER_NAME || "TalkDrove",
+  ownername: process.env.OWNER_NAME || "Rahul_JI",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
